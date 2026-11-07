@@ -1,0 +1,8 @@
+# Archivos compilados
+*.o
+*.hi
+
+# Carpetas de compilación (Stack o Cabal)
+.stack-work/
+dist-newstyle/
+dist/
